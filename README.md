@@ -1,9 +1,8 @@
-# Ejercicios de Programción
+# Ejercicios de Programación
 
-Repositorio de Ejercicio hechos en Java. Para la asignatura de programación II, grupo 301 de la universidad de cundinamarca.
+Repositorio de Ejercicios hechos en Java para la asignatura de Programación II, grupo 301 de la Universidad de Cundinamarca.
 
-Los ejercicios (A partir de la semana 5 y 6 se encuentran separados en su rama específica).
-Para cambiar de rama, se da click en el menú despegable a la izquierda, Por defecto está en la rama **main**, ahí estarán encontradas todas las semanas separadas por una rama.
+Los ejercicios (a partir de la semana 5 y 6) se encuentran separados en su rama específica. Para cambiar de rama, haz clic en el menú desplegable a la izquierda. Por defecto está en la rama main, donde encontrarás todas las semanas separadas por una rama.
 
 ![Imagen](./assets/explicacion_1.png)
 ![Imagen](./assets/explicacion_2.png)
