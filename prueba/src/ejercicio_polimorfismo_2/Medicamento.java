@@ -4,7 +4,6 @@ public class Medicamento extends Farmacia {
   private double descuento;
   private double precioTotal;
   private double totalConDescuento;
-  // private double precioConDescuento;
 
   public void setDescuento(double value) {
     descuento = value;
