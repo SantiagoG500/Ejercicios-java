@@ -7,7 +7,6 @@ abstract class Farmacia {
 
   protected int cantidad;
   protected int diaCompra;
-  // protected String tipoProducto;
 
   // setters
   public void setNombre(String value) {
