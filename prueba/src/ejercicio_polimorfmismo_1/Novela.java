@@ -3,7 +3,6 @@ package ejercicio_polimorfmismo_1;
 public class Novela extends Libro {
   private String tipoNovela;
   private double descuento;
-  // private double precio;
 
   public void setDescuento(double value) {
     descuento = value;
